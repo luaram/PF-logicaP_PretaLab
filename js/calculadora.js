@@ -17,7 +17,7 @@ function subtrair() {
     const numero2 = parseFloat(document.getElementById("numero2Sub").value);
     // evite mexer no código acima!
 
-    let resultado= numero12-numero2;
+    let resultado= numero1-numero2;
 
     /* use as constantes numero 1 e numero 2 e realize a subtração entre elas.
         Em seguida, ao invés de mostrar o numero 9, mostre o resultado da operação */
@@ -29,7 +29,7 @@ function multiplicar() {
     const numero2 = parseFloat(document.getElementById("numero2Mult").value);
     // evite mexer no código acima!
 
-    let resultado= numero1-numero2;
+    let resultado= numero1*numero2;
 
     /* use as constantes numero 1 e numero 2 e realize a multiplicação entre elas.
         Em seguida, ao invés de mostrar o numero 5, mostre o resultado da operação */
